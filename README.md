@@ -1,15 +1,16 @@
-# Calculadora IPhone
-<img src="calculator.ico" width="128" alt="icne do projeto">
+# Calculadora IPhone <img src="calculator.ico" width="32" alt="icne do projeto">
 
-![GitHub repo size](https://img.shields.io/github/repo-size/iuricode/README-template?style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/iuricode/README-template?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/iuricode/README-template?style=for-the-badge)
-![Bitbucket open issues](https://img.shields.io/bitbucket/issues/iuricode/README-template?style=for-the-badge)
-![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/iuricode/README-template?style=for-the-badge)
 
-<img src="imagem.png" alt="Exemplo imagem">
+  ![Python](https://img.shields.io/badge/python-3776AB?style=for-he-badge&logo=python&logoColor=white)
+  ![PyQT5](https://img.shields.io/badge/Qt-%23217346.svg?styte=for-the-badge&logo=Qt&logoColor=white)
+  ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-> Linha adicional de texto informativo sobre o que o projeto faz. Sua introdução deve ter cerca de 2 ou 3 linhas. Não exagere, as pessoas não vão ler.
+
+
+<div align="center">
+<img src="tela1.png" width="258" alt="Exemplo imagem">
+<div>
+> Projeto desenvolvido durante o periodo do curso Técnico de Desenvolvimento de Sistemas SENAC.
 
 ### Ajustes e melhorias
 
@@ -72,7 +73,7 @@ Para contribuir com <Calculadora IPhone>, siga estas etapas:
 
 Como alternativa, consulte a documentação do GitHub em [como criar uma solicitação pull](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
 
-## 🤝 Colaboradores
+<!-- ## 🤝 Colaboradores
 
 Agradecemos às seguintes pessoas que contribuíram para este projeto:
 
@@ -87,4 +88,4 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
       </a>
     </td>
   </tr>
-</table>
+</table> -->
