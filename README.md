@@ -9,7 +9,8 @@
 
 <div align="center">
 <img src="tela1.png" width="258" alt="Exemplo imagem">
-<div>
+</div>
+
 > Projeto desenvolvido durante o periodo do curso Técnico de Desenvolvimento de Sistemas SENAC.
 
 ### Ajustes e melhorias
@@ -32,11 +33,13 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 - Você tem uma máquina `<Windows / Linux >`. 
 
 - Configurado o ambiente virtual:
-  - 'python -m venv env'
+  - python -m venv env
 
 - Você tem instalado as seguintes dependencias
-  -'pyqt5 '
-  -'auto-py-to-exe' 
+  
+  -pyqt5
+  
+  -auto-py-to-exe
 
 ## 🚀 Instalando <Calculadora IPhone>
 
@@ -67,9 +70,14 @@ Para contribuir com <Calculadora IPhone>, siga estas etapas:
 
 1. Bifurque este repositório.
 2. Crie um branch: `Calculadora-IPhone>`.
-3. Faça suas alterações e confirme-as: `git commit -m '<mensagem_commit>'`
+3. Faça suas alterações e confirme-as: `git commit -m <mensagem_commit>`
 4. Envie para o branch original: `git push origin <nome_do_projeto> / <local>`
 5. Crie a solicitação de pull.
+
+
+
+
+
 
 Como alternativa, consulte a documentação do GitHub em [como criar uma solicitação pull](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
 
