@@ -1,4 +1,5 @@
 # Calculadora IPhone
+<img src="calculator.ico" width="128" alt="icne do projeto">
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/iuricode/README-template?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/iuricode/README-template?style=for-the-badge)
@@ -79,17 +80,9 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
   <tr>
     <td align="center">
       <a href="#" title="Otávio Henrique">
-        <img src="[https://avatars3.githubusercontent.com/u/31936044](https://avatars.githubusercontent.com/u/164201968?v=4)" width="100px;" alt="Foto do Otavio no GitHub"/><br>
+        <img src="https://avatars.githubusercontent.com/u/164201968?v=4" width="100px;" alt="Foto do Otavio no GitHub"/><br>
         <sub>
           <b>Otavio Henrique</b>
-        </sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="#" title="defina o titulo do link">
-        <img src="[https://miro.medium.com/max/360/0*1SkS3mSorArvY9kS.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Kanye_West_at_the_2009_Tribeca_Film_Festival_%28crop_2%29.jpg/640px-Kanye_West_at_the_2009_Tribeca_Film_Festival_%28crop_2%29.jpg)" width="100px;" alt="Foto do Kanye West"/><br>
-        <sub>
-          <b>Kanye West</b>
         </sub>
       </a>
     </td>

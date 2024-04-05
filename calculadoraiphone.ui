@@ -14,7 +14,11 @@
    <cursorShape>ArrowCursor</cursorShape>
   </property>
   <property name="windowTitle">
-   <string>MainWindow</string>
+   <string>Calculdora</string>
+  </property>
+  <property name="windowIcon">
+   <iconset>
+    <normaloff>calculator.ico</normaloff>calculator.ico</iconset>
   </property>
   <property name="styleSheet">
    <string notr="true">background-color:#000;</string>
